@@ -45,3 +45,8 @@ To get this:
 ### Development
 
 I created all the requests in order to retrieve the data from the APIs using promises. All npms were required at the beginning of the liri.js file and Node was used to run the functions.
+
+### Repository link
+
+Link to all files can be found at:
+https://github.com/seanesqueda/liri-node-app
